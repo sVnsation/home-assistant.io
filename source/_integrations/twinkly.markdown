@@ -65,7 +65,7 @@ For most use cases, "Color", "Movie" and "Playlist" modes are the most relevant.
 - Limited practical use
 
 **Unsupported Modes:**
-- Effect Mode: predefined effects built into the device, you are probably better off using Movie Mode
+- Effect Mode: predefined effects built into the device. Alternatively, you can use Movie Mode
 - RT (Real-Time): Live control of individual LEDs
 - Music: Music-controlled light show
 
